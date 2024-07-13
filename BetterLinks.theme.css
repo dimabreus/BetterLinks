@@ -1,13 +1,13 @@
 /**
  * @name BetterLinks
- * @version 0.0.5
+ * @version 0.0.6
  * @author dimabreus
  * @authorId 840559505308909599
  * @description Changing the links color to gradient
 */
 
 :root {
-    --better-links-gradient: linear-gradient(90deg, rgba(0, 255, 239, 1) 0%, rgba(79, 71, 242, 1) 26%, rgba(252, 0, 251, 1) 52%, rgba(197, 136, 255, 1) 78%, rgba(0, 249, 255, 1) 100%);
+    --better-links-gradient: linear-gradient(300deg, rgba(255,61,61,1) 0%, rgba(255,190,103,1) 45%, rgba(255,100,100,1) 74%);
 }
 
 .markup_f8f345 a,
@@ -27,7 +27,8 @@ a.link_c91bad,
 .name_d8bfb3,
 .numberBadge_df8943,
 .content_e62b38 a,
-.overflow_c74e70 {
+.overflow_c74e70,
+.wrapper_a5bc92 {
     background: initial;
     -webkit-background-clip: initial;
     background-clip: initial;
