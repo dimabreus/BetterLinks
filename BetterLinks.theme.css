@@ -1,6 +1,6 @@
 /**
  * @name BetterLinks
- * @version 0.0.8
+ * @version 0.0.9
  * @author dimabreus
  * @authorId 840559505308909599
  * @description Changing the links color to gradient
@@ -30,7 +30,8 @@ a.link_c91bad,
 .overflow_c74e70,
 .wrapper_a5bc92,
 .statusText_e66732,
-.voiceTimer {
+.voiceTimer,
+.base_df8943 {
     background: initial;
     -webkit-background-clip: initial;
     background-clip: initial;
